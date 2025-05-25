@@ -3,7 +3,7 @@
 
 # Group Project
 
-We are working on Java Spring program for our University Group Project
+Java Spring Boot server for our University Group Project
 
 
 
